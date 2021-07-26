@@ -1,1 +1,1 @@
-# 4stor_manager_mobile
+It is mobile version of 4stor_manager

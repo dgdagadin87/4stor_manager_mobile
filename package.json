@@ -11,27 +11,27 @@
     "lint": "ionic-app-scripts lint"
   },
   "dependencies": {
-    "@angular/animations": "5.2.11",
-    "@angular/common": "5.2.11",
-    "@angular/compiler": "5.2.11",
-    "@angular/compiler-cli": "5.2.11",
-    "@angular/core": "5.2.11",
-    "@angular/forms": "5.2.11",
-    "@angular/platform-browser": "5.2.11",
-    "@angular/platform-browser-dynamic": "5.2.11",
-    "@ionic-native/core": "4.20.0",
-    "@ionic-native/splash-screen": "4.20.0",
-    "@ionic-native/status-bar": "4.20.0",
-    "@ionic/storage": "2.2.0",
-    "ionic-angular": "3.9.9",
-    "ionicons": "3.0.0",
-    "rxjs": "5.5.11",
+    "@angular/animations": "12.1.3",
+    "@angular/common": "12.1.3",
+    "@angular/compiler": "12.1.3",
+    "@angular/compiler-cli": "12.1.3",
+    "@angular/core": "12.1.3",
+    "@angular/forms": "12.1.3",
+    "@angular/platform-browser": "12.1.3",
+    "@angular/platform-browser-dynamic": "12.1.3",
+    "@ionic-native/core": "5.34.0",
+    "@ionic-native/splash-screen": "5.34.0",
+    "@ionic-native/status-bar": "5.34.0",
+    "@ionic/storage": "3.0.6",
+    "ionic-angular": "3.9.10",
+    "ionicons": "5.5.2",
+    "rxjs": "7.2.0",
     "sw-toolbox": "3.6.0",
-    "zone.js": "0.8.29"
+    "zone.js": "0.11.4"
   },
   "devDependencies": {
     "@ionic/app-scripts": "3.2.4",
-    "typescript": "2.6.2"
+    "typescript": "4.3.5"
   },
-  "description": "An Ionic project"
+  "description": "4stor manager mobile"
 }
